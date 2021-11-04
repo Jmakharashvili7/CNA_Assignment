@@ -1,0 +1,10 @@
+C:\Users\m017735i\source\repos\CNA_Assignment\CNA_Assignment\obj\Debug\net5.0-windows\CNA_Assignment.csprojAssemblyReference.cache
+C:\Users\m017735i\source\repos\CNA_Assignment\CNA_Assignment\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\m017735i\source\repos\CNA_Assignment\CNA_Assignment\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\m017735i\source\repos\CNA_Assignment\CNA_Assignment\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\m017735i\source\repos\CNA_Assignment\CNA_Assignment\obj\Debug\net5.0-windows\CNA_Assignment_MarkupCompile.cache
+C:\Users\m017735i\source\repos\CNA_Assignment\CNA_Assignment\obj\Debug\net5.0-windows\CNA_Assignment.g.resources
+C:\Users\m017735i\source\repos\CNA_Assignment\CNA_Assignment\obj\Debug\net5.0-windows\CNA_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m017735i\source\repos\CNA_Assignment\CNA_Assignment\obj\Debug\net5.0-windows\CNA_Assignment.AssemblyInfoInputs.cache
+C:\Users\m017735i\source\repos\CNA_Assignment\CNA_Assignment\obj\Debug\net5.0-windows\CNA_Assignment.AssemblyInfo.cs
+C:\Users\m017735i\source\repos\CNA_Assignment\CNA_Assignment\obj\Debug\net5.0-windows\CNA_Assignment.csproj.CoreCompileInputs.cache
